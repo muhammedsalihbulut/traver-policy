@@ -22,4 +22,4 @@ We respect your right to privacy. You can permanently delete your entire account
 We use Supabase for database management and storage. Your data is stored securely on their cloud infrastructure.
 
 ### 5. Contact Us
-If you have any questions, contact us via App Store Support.
+If you have any questions, contact us via App Store Support. salihbulut417@gmail.com
